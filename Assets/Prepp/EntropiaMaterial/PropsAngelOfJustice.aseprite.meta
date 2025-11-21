@@ -131,10 +131,10 @@ ScriptedImporter:
     customData: 
     rect:
       serializedVersion: 2
-      x: 4
-      y: 4
-      width: 983
-      height: 1010
+      x: 658
+      y: 80
+      width: 265
+      height: 192
     spriteID: b66d3cef85c5ab244956e0a0ba2e572b
     spriteBone: []
     spriteOutline: []
